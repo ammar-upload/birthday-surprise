@@ -9,15 +9,21 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "confetti": "^2.0.6",
+    "framer-motion": "^12.23.22",
+    "lucide-react": "^0.544.0",
+    "motion": "^12.23.22",
+    "mouse-follower": "^1.1.2",
+    "next": "15.5.4",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "next": "15.5.4"
+    "react-confetti": "^6.4.0",
+    "react-dom": "19.1.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.4",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4"
   }
 }
